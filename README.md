@@ -10,7 +10,7 @@ Verified working with macOS version 13.3.1 (a) (22E772610a) Ventura and OpenCore
 
 ## Important! Important! Important!
 
-**F9 BIOS from GIGABYTE resolves the Apple Watch unlock(SERIAL PORT disabled) issue and provides the CFG Unlock in the BIOS. CFG Unlock is required for this EFI to work properly. Be sure to upgrade F9.**
+**F10 BIOS from GIGABYTE resolves the Apple Watch unlock(SERIAL PORT disabled) issue and provides the CFG Unlock in the BIOS. CFG Unlock is required for this EFI to work properly. Be sure to upgrade F10.**
 
 **YOU MUST modify SN/UUID/MLB/ROM values in config.plist file. ROM value is the MAC address of your motherboard built-in network card, check it on BIOS settings.**
 ![SN/UUID/MLB](https://github.com/BenjaminX/Hackintosh-Gigabyte-Z390M-GAMING/blob/master/Tips/MLBUUIDSN.png)
@@ -42,7 +42,7 @@ Items | Last Version | Comments
 
 **Important! Important! Important!**
 
-**Highly recommended to make sure to use the latest BIOS 'F9' version. Download [BIOS](https://github.com/BenjaminX/Hackintosh-Gigabyte-Z390M-GAMING/tree/master/BIOS/mb_bios_z390-m-gaming_f9_new.zip) and flash it for CFG unlocked, SERIAL PORT disabled from BIOS settings.**
+**Highly recommended to make sure to use the latest BIOS 'F10' version. Download [BIOS](https://github.com/BenjaminX/Hackintosh-Gigabyte-Z390M-GAMING/tree/master/BIOS/mb_bios_z390-m-gaming_f9_new.zip) and flash it for CFG unlocked, SERIAL PORT disabled from BIOS settings.**
 
 ## Overview
 Installation procedure is quite straightforward, but requires prior knowledge or experience with Hackintoshes. 
