@@ -87,13 +87,8 @@ Based on F10 version.
 	- Advanced CPU Settings
 		- VT-d → **Enabled**
 		- No. of CPU Cores Enabled → 8
-		- CPU EIST Functions → **Auto**
-		- Race To Halt (RTH) → **Auto**
-		- Voltage Optimization → **Auto**
 		- Intel(R) Speed Shift Technology → **Enabled**
-		- Energy Efficient Turbo  → **Auto**
 		- Intel(R) Turbo Boost Technology → **Enabled**
-		- C-States Control → **Auto**
 * Settings
 	- Platform Power
 		- Platform Power Management → **Disabled**
@@ -103,22 +98,14 @@ Based on F10 version.
 		- Power Loading → **Enabled**
 		- RC6(Render Standby) → **Enabled**
 	- IO Ports
-		- Initial Display Output → **PCIe 1 Slot**
-		- Internal Graphics → **Enabled**
-		- DVMT Pre-Allocated → **64M**
-		- Aperture Size → **256M**
-		- Audio Controller → **Enabled**
+		- Internal Graphics → **Enabled** (If i-Gpu)
+		- DVMT Pre-Allocated → **64M** (If i-Gpu)
     	- Above 4G Decoding → **Enabled**
     	- Resize BAR Support → **Auto**
     	- Super IO Configuration
     		- Serial Port → **Disabled**
     	- USB Configuration
     		- XHCI Hand-off → **Enabled**
-    		- Legacy USB Support → **Enabled**
-    		- USB Mass Storage Driver Support → **Enabled**
-    		- Port 60/64 Emulation → **Disabled**
-    	- Network Stack Configuration
-    		- Network Stack → **Disabled**
 	- Miscellaneous
 		- Intel Platform Trust Technology(PTT) → **Disabled**
 		- Software Guard Extensions(SGX) → **Disabled**
@@ -141,7 +128,7 @@ Based on F10 version.
 		- Memory Enhancement Settings → **Enhanced Performance**
 * Settings
 	- IO Ports
-		- DVMT Total-Gfx Mem → **MAX**
+		- DVMT Total-Gfx Mem → **MAX** (If i-Gpu)
 
 
 
