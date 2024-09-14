@@ -31,7 +31,7 @@ Included items table
 
 Items | Last Version | Comments
 ------------ | ------------- | -------------
-[BIOS](https://www.gigabyte.com/Motherboard/Z390-M-GAMING-rev-10/support#support-dl-bios) | F9 | Be sure to upgrade F9
+[BIOS](https://www.gigabyte.com/Motherboard/Z390-M-GAMING-rev-10/support#support-dl-bios) | F10 | Be sure to upgrade F10
 [OpenCore](https://github.com/acidanthera/OpenCorePkg/releases) | 0.9.2 |
 [Lilu](https://github.com/acidanthera/Lilu/releases) | 1.6.5 |
 [AppleALC](https://github.com/acidanthera/AppleALC/releases) | 1.8.2 |
@@ -42,7 +42,7 @@ Items | Last Version | Comments
 
 **Important! Important! Important!**
 
-**Highly recommended to make sure to use the latest BIOS 'F10' version. Download [BIOS](https://github.com/BenjaminX/Hackintosh-Gigabyte-Z390M-GAMING/tree/master/BIOS/mb_bios_z390-m-gaming_f9_new.zip) and flash it for CFG unlocked, SERIAL PORT disabled from BIOS settings.**
+**Highly recommended to make sure to use the latest BIOS 'F10' version. Download [BIOS](https://github.com/KallNascimento/Hackintosh-Gigabyte-Z390M-GAMING/tree/master/BIOS/Z390MGAMING.zip) and flash it for CFG unlocked, SERIAL PORT disabled from BIOS settings.**
 
 ## Overview
 Installation procedure is quite straightforward, but requires prior knowledge or experience with Hackintoshes. 
@@ -73,7 +73,7 @@ If you want a smooth experience using wireless functionalities such as AirDrop /
 
 ## BIOS Settings
 
-Based on F9 version.
+Based on F10 version.
 
 #### First setup,
 
